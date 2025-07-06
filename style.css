@@ -111,7 +111,7 @@ body {
   padding: 10px 16px;
   border-radius: 6px;
   cursor: pointer;
-  font-size: 1.313rem;
+  font-size: 1rem; /* Made smaller */
   transition: background 0.2s;
 }
 
